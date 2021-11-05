@@ -5,7 +5,7 @@
 - 📫 How to reach me
 - My Instagram: @ulas512
 - My LinkedIn: https://www.linkedin.com/in/ula%C5%9F-filiz-263683186/
-
+- My Kaggle: https://www.kaggle.com/ulafiliz
 <!---
 Ulasus123/Ulasus123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
